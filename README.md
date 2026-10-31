@@ -1,7 +1,7 @@
 # ☁️ In Search of IDOL
 
 <p align="center">
-  <img src="assets/Logo.png" alt="In Search of IDOL Logo" width="300"/>
+  <img src="assets/logo.png" alt="In Search of IDOL Logo" width="300"/>
 </p>
 
 <p align="center">
