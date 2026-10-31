@@ -4656,7 +4656,7 @@ radius = 77.8791
 [sub_resource type="CircleShape2D" id="CircleShape2D_ewgfn"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_m13yd"]
-size = Vector2(16525.5, 137)
+size = Vector2(17844, 137)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_fv1hr"]
 size = Vector2(13, 6)
@@ -5314,7 +5314,7 @@ shape = SubResource("CircleShape2D_ewgfn")
 [node name="Area2D" type="Area2D" parent="StaticBody2D2"]
 
 [node name="CollisionShape2D2" type="CollisionShape2D" parent="StaticBody2D2/Area2D"]
-position = Vector2(244.75, 1547.5)
+position = Vector2(904, 1547.5)
 shape = SubResource("RectangleShape2D_m13yd")
 one_way_collision_margin = 0.0
 

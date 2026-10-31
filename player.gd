@@ -168,6 +168,3 @@ func _on_npc_8_body_exited(body):
 func _on_rainbow_body_entered(body):
 	if body.name == "CharacterBody2D":
 		get_tree().change_scene_to_file("res://end_menu.tscn")
-
-
-
